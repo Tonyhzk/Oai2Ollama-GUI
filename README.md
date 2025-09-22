@@ -49,13 +49,17 @@ Unlike the original [oai2ollama](https://github.com/CNSeniorious000/oai2ollama) 
   - Streaming response support
 
 ## 📸 Screenshots
+
 Main
+
 ![Main](img/Main.png)
 
 Model_list
+
 ![Model_list](img/Model_list.png)
 
 copilot
+
 ![copilot](img/copilot.png)
 
 ## 🚀 Installation
