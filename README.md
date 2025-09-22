@@ -52,11 +52,11 @@ Unlike the original [oai2ollama](https://github.com/CNSeniorious000/oai2ollama) 
 
 Main
 
-![Main](img/Main.png)
+![Main](img/en_Main.png)
 
 Model_list
 
-![Model_list](img/Model_list.png)
+![Model_list](img/en_Model_list.png)
 
 copilot
 

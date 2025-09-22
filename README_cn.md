@@ -73,11 +73,11 @@
 
 主界面
 
-![Main](img/Main.png)
+![Main](img/cn_Main.png)
 
 模型列表
 
-![Model_list](img/Model_list.png)
+![Model_list](img/cn_Model_list.png)
 
 copilot
 
