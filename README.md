@@ -49,14 +49,14 @@ Unlike the original [oai2ollama](https://github.com/CNSeniorious000/oai2ollama) 
   - Streaming response support
 
 ## 📸 Screenshots
+Main
+![Main](img/Main.png)
 
-*Note: Add screenshots of your application here*
+Model_list
+![Model_list](img/Model_list.png)
 
-```
-[Main Interface Screenshot]
-[Model Management Screenshot]
-[Quick Setup Wizard Screenshot]
-```
+copilot
+![copilot](img/copilot.png)
 
 ## 🚀 Installation
 

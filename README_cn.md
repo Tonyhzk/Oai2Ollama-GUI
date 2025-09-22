@@ -71,17 +71,14 @@
 
 ## 📸 截图
 
+主界面
+![Main](img/Main.png)
 
+模型列表
+![Model_list](img/Model_list.png)
 
-*注意：在此处添加您的应用程序截图* 
-
-
-
-```
-[主界面截图] 
-[模型管理截图] 
-[快速设置向导截图] 
-```
+copilot
+![copilot](img/copilot.png)
 
 
 
