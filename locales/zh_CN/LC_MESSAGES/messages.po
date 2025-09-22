@@ -1,0 +1,390 @@
+# Chinese translations for Oai2Ollama
+msgid ""
+msgstr ""
+"Project-Id-Version: Oai2Ollama 1.0\n"
+"POT-Creation-Date: 2023-11-20 10:00+0000\n"
+"PO-Revision-Date: 2023-11-20 10:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+
+msgid "Oai2Ollama GUI - OpenAI to Ollama API Bridge"
+msgstr "Oai2Ollama GUI - OpenAI 到 Ollama API 桥接器"
+
+msgid "🌙 Dark Theme"
+msgstr "🌙 暗黑主题"
+
+msgid "☀️ Light Theme"
+msgstr "☀️ 明亮主题"
+
+msgid "🌐 Language"
+msgstr "🌐 语言"
+
+msgid "⚙️ Settings"
+msgstr "⚙️ 设置"
+
+msgid "ℹ️ About"
+msgstr "ℹ️ 关于"
+
+msgid "⏹️ Stop"
+msgstr "⏹️ 停止"
+
+msgid "▶️ Start"
+msgstr "▶️ 启动"
+
+msgid "Server Configuration"
+msgstr "服务器配置"
+
+msgid "API Key:"
+msgstr "API 密钥:"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Base URL:"
+msgstr "基础 URL:"
+
+msgid "Listen Address:"
+msgstr "监听地址:"
+
+msgid "Port:"
+msgstr "端口:"
+
+msgid "Open API Docs"
+msgstr "打开API文档"
+
+msgid "Capabilities:"
+msgstr "能力:"
+
+msgid "(comma-separated, e.g., tools, vision, embedding)"
+msgstr "(逗号分隔, 例如: tools, vision, embedding)"
+
+msgid "Intercept Model List:"
+msgstr "拦截模型列表:"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Extra Models:"
+msgstr "额外模型:"
+
+msgid "(comma-separated, e.g., gpt-4, gpt-3.5-turbo)"
+msgstr "(逗号分隔, 例如: gpt-4, gpt-3.5-turbo)"
+
+msgid "Server Log"
+msgstr "服务器日志"
+
+msgid "Clear Log"
+msgstr "清空日志"
+
+msgid "Save Log"
+msgstr "保存日志"
+
+msgid "Auto-scroll"
+msgstr "自动滚动"
+
+msgid "Ready"
+msgstr "就绪"
+
+msgid "Server: Running on {host}:{port}"
+msgstr "服务器: 正在运行于 {host}:{port}"
+
+msgid "Server: Stopped"
+msgstr "服务器: 已停止"
+
+msgid "Server started"
+msgstr "服务器已启动"
+
+msgid "Server stopped"
+msgstr "服务器已停止"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Please enter an API Key"
+msgstr "请输入 API 密钥"
+
+msgid "Please enter a Base URL"
+msgstr "请输入基础 URL"
+
+msgid "Log cleared"
+msgstr "日志已清空"
+
+msgid "Text files"
+msgstr "文本文件"
+
+msgid "All files"
+msgstr "所有文件"
+
+msgid "Log saved to: {filename}"
+msgstr "日志已保存至: {filename}"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Log saved"
+msgstr "日志已保存"
+
+msgid "Failed to save log: {error}"
+msgstr "保存日志失败: {error}"
+
+msgid "Tip"
+msgstr "提示"
+
+msgid "Please start the server first"
+msgstr "请先启动服务器"
+
+msgid "Auto-start server on application launch"
+msgstr "程序启动时自动启动服务器"
+
+msgid "Minimize to system tray on close"
+msgstr "关闭时最小化到系统托盘"
+
+msgid "Start minimized to tray"
+msgstr "启动时最小化到托盘"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Settings have been saved"
+msgstr "设置已保存"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "A desktop application that converts OpenAI-compatible APIs to Ollama-compatible APIs"
+msgstr "一个将OpenAI兼容API转换为Ollama兼容API的桌面应用程序"
+
+msgid "Features"
+msgstr "功能特性"
+
+msgid "API format conversion"
+msgstr "API格式转换"
+
+msgid "Model management"
+msgstr "模型管理"
+
+msgid "Capability tagging"
+msgstr "能力标记"
+
+msgid "Streaming response support"
+msgstr "流式响应支持"
+
+msgid "Graphical user interface"
+msgstr "图形化界面"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "License"
+msgstr "许可"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Start Server"
+msgstr "启动服务器"
+
+msgid "Stop Server"
+msgstr "停止服务器"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Application minimized to system tray"
+msgstr "程序已最小化到系统托盘"
+
+msgid "Quick Setup Wizard"
+msgstr "快速配置向导"
+
+msgid "Welcome to Oai2Ollama"
+msgstr "欢迎使用 Oai2Ollama"
+
+msgid "Please configure basic parameters to start the service"
+msgstr "请配置基本参数以启动服务"
+
+msgid "Select a preset configuration"
+msgstr "选择预设配置"
+
+msgid "Official OpenAI"
+msgstr "OpenAI 官方"
+
+msgid "Azure OpenAI"
+msgstr "Azure OpenAI"
+
+msgid "Local Service"
+msgstr "本地服务"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "API Configuration"
+msgstr "API 配置"
+
+msgid "Advanced Options (optional)"
+msgstr "高级选项 (可选)"
+
+msgid "Get Started"
+msgstr "开始使用"
+
+msgid "Configure Later"
+msgstr "稍后配置"
+
+msgid "Intercept Model List Settings"
+msgstr "拦截模型列表设置"
+
+msgid "Model List"
+msgstr "模型列表"
+
+msgid "🔄 Get Model List"
+msgstr "🔄 获取模型列表"
+
+msgid "➕ Add Model"
+msgstr "➕ 添加模型"
+
+msgid "🗑️ Delete Selected"
+msgstr "🗑️ 删除选中"
+
+msgid "📝 Advanced Edit"
+msgstr "📝 高级编辑"
+
+msgid "❌ Clear Filter"
+msgstr "❌ 清除筛选"
+
+msgid "☐ Deselect All"
+msgstr "☐ 全不选"
+
+msgid "☑️ Select All"
+msgstr "☑️ 全选"
+
+msgid "💾 Save"
+msgstr "💾 保存"
+
+msgid "❌ Cancel"
+msgstr "❌ 取消"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Model ID"
+msgstr "模型ID"
+
+msgid "Model Name"
+msgstr "模型名称"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "✅ Enable Selected"
+msgstr "✅ 启用选中"
+
+msgid "❌ Disable Selected"
+msgstr "❌ 禁用选中"
+
+msgid "📝 Copy Model ID"
+msgstr "📝 复制模型ID"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Please set the Base URL in the main window first"
+msgstr "请先在主窗口设置Base URL"
+
+msgid "Please wait"
+msgstr "请稍候"
+
+msgid "Fetching model list..."
+msgstr "正在获取模型列表..."
+
+msgid "Failed to fetch model list: {error}"
+msgstr "获取模型列表失败: {error}"
+
+msgid "Sync complete! Found {count} models."
+msgstr "同步完成！发现 {count} 个模型。"
+
+msgid "Add Custom Model"
+msgstr "添加自定义模型"
+
+msgid "Please enter a Model ID"
+msgstr "请输入模型ID"
+
+msgid "This Model ID already exists"
+msgstr "该模型ID已存在"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Please select models to delete first"
+msgstr "请先选择要删除的模型"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Are you sure you want to delete the selected {count} models? This action cannot be undone."
+msgstr "确定要删除选中的 {count} 个模型吗？此操作不可恢复。"
+
+msgid "Settings saved. Total {total} models, {enabled} enabled."
+msgstr "已保存配置，共 {total} 个模型，其中 {enabled} 个已启用。"
+
+msgid "Advanced Edit Mode - JSON"
+msgstr "高级编辑模式 - JSON"
+
+msgid "Edit the model's JSON configuration directly here. Ensure the format is correct."
+msgstr "在此处直接编辑模型的JSON配置。请确保格式正确。"
+
+msgid "Failed to load configuration"
+msgstr "加载配置失败"
+
+msgid "✅ Validate Format"
+msgstr "✅ 验证格式"
+
+msgid "💅 Format"
+msgstr "💅 格式化"
+
+msgid "💾 Save and Apply"
+msgstr "💾 保存并应用"
+
+msgid "Validation Failed"
+msgstr "验证失败"
+
+msgid "Top-level structure must be a JSON array (list)."
+msgstr "顶层结构必须是一个JSON数组 (列表)。"
+
+msgid "Item #{num} is not a valid JSON object (dictionary)."
+msgstr "项目 #{num} 不是一个有效的JSON对象 (字典)。"
+
+msgid "Item #{num} is missing the required 'id' field."
+msgstr "项目 #{num} 缺少必需的 'id' 字段。"
+
+msgid "JSON configuration validation passed!"
+msgstr "JSON配置验证通过！"
+
+msgid "JSON Error"
+msgstr "JSON错误"
+
+msgid "Invalid JSON format: {error}"
+msgstr "JSON格式无效: {error}"
+
+msgid "Formatting Failed"
+msgstr "格式化失败"
+
+msgid "Could not format JSON: {error}"
+msgstr "无法格式化JSON: {error}"
+
+msgid "Advanced edits applied.\nPlease remember to click the 'Save' button in the main settings window to persist changes."
+msgstr "高级编辑已应用。\n请记得点击主设置窗口的“保存”按钮以持久化更改。"

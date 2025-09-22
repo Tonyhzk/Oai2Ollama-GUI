@@ -1,0 +1,396 @@
+# English translations for Oai2Ollama
+msgid ""
+msgstr ""
+"Project-Id-Version: Oai2Ollama 1.0\n"
+"POT-Creation-Date: 2023-11-20 10:00+0000\n"
+"PO-Revision-Date: 2023-11-20 10:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "Oai2Ollama GUI - OpenAI to Ollama API Bridge"
+msgstr "Oai2Ollama GUI - OpenAI to Ollama API Bridge"
+
+msgid "🌙 Dark Theme"
+msgstr "🌙 Dark Theme"
+
+msgid "☀️ Light Theme"
+msgstr "☀️ Light Theme"
+
+msgid "🌐 Language"
+msgstr "🌐 Language"
+
+msgid "⚙️ Settings"
+msgstr "⚙️ Settings"
+
+msgid "ℹ️ About"
+msgstr "ℹ️ About"
+
+msgid "⏹️ Stop"
+msgstr "⏹️ Stop"
+
+msgid "▶️ Start"
+msgstr "▶️ Start"
+
+msgid "Server Configuration"
+msgstr "Server Configuration"
+
+msgid "API Key:"
+msgstr "API Key:"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Base URL:"
+msgstr "Base URL:"
+
+msgid "Listen Address:"
+msgstr "Listen Address:"
+
+msgid "Port:"
+msgstr "Port:"
+
+msgid "Open API Docs"
+msgstr "Open API Docs"
+
+msgid "Capabilities:"
+msgstr "Capabilities:"
+
+msgid "(comma-separated, e.g., tools, vision, embedding)"
+msgstr "(comma-separated, e.g., tools, vision, embedding)"
+
+msgid "Intercept Model List:"
+msgstr "Intercept Model List:"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Extra Models:"
+msgstr "Extra Models:"
+
+msgid "(comma-separated, e.g., gpt-4, gpt-3.5-turbo)"
+msgstr "(comma-separated, e.g., gpt-4, gpt-3.5-turbo)"
+
+msgid "Server Log"
+msgstr "Server Log"
+
+msgid "Clear Log"
+msgstr "Clear Log"
+
+msgid "Save Log"
+msgstr "Save Log"
+
+msgid "Auto-scroll"
+msgstr "Auto-scroll"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Server: Running on {host}:{port}"
+msgstr "Server: Running on {host}:{port}"
+
+msgid "Server: Stopped"
+msgstr "Server: Stopped"
+
+msgid "Server started"
+msgstr "Server started"
+
+msgid "Server stopped"
+msgstr "Server stopped"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Please enter an API Key"
+msgstr "Please enter an API Key"
+
+msgid "Please enter a Base URL"
+msgstr "Please enter a Base URL"
+
+msgid "Log cleared"
+msgstr "Log cleared"
+
+msgid "Save Log"
+msgstr "Save Log"
+
+msgid "Text files"
+msgstr "Text files"
+
+msgid "All files"
+msgstr "All files"
+
+msgid "Log saved to: {filename}"
+msgstr "Log saved to: {filename}"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Log saved"
+msgstr "Log saved"
+
+msgid "Failed to save log: {error}"
+msgstr "Failed to save log: {error}"
+
+msgid "Tip"
+msgstr "Tip"
+
+msgid "Please start the server first"
+msgstr "Please start the server first"
+
+msgid "Auto-start server on application launch"
+msgstr "Auto-start server on application launch"
+
+msgid "Minimize to system tray on close"
+msgstr "Minimize to system tray on close"
+
+msgid "Start minimized to tray"
+msgstr "Start minimized to tray"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Settings have been saved"
+msgstr "Settings have been saved"
+
+msgid "About"
+msgstr "About"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "A desktop application that converts OpenAI-compatible APIs to Ollama-compatible APIs"
+msgstr "A desktop application that converts OpenAI-compatible APIs to Ollama-compatible APIs"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "API format conversion"
+msgstr "API format conversion"
+
+msgid "Model management"
+msgstr "Model management"
+
+msgid "Capability tagging"
+msgstr "Capability tagging"
+
+msgid "Streaming response support"
+msgstr "Streaming response support"
+
+msgid "Graphical user interface"
+msgstr "Graphical user interface"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "License"
+msgstr "License"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Hide"
+msgstr "Hide"
+
+msgid "Start Server"
+msgstr "Start Server"
+
+msgid "Stop Server"
+msgstr "Stop Server"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Application minimized to system tray"
+msgstr "Application minimized to system tray"
+
+msgid "Quick Setup Wizard"
+msgstr "Quick Setup Wizard"
+
+msgid "Welcome to Oai2Ollama"
+msgstr "Welcome to Oai2Ollama"
+
+msgid "Please configure basic parameters to start the service"
+msgstr "Please configure basic parameters to start the service"
+
+msgid "Select a preset configuration"
+msgstr "Select a preset configuration"
+
+msgid "Official OpenAI"
+msgstr "Official OpenAI"
+
+msgid "Azure OpenAI"
+msgstr "Azure OpenAI"
+
+msgid "Local Service"
+msgstr "Local Service"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "API Configuration"
+msgstr "API Configuration"
+
+msgid "Advanced Options (optional)"
+msgstr "Advanced Options (optional)"
+
+msgid "Get Started"
+msgstr "Get Started"
+
+msgid "Configure Later"
+msgstr "Configure Later"
+
+msgid "Intercept Model List Settings"
+msgstr "Intercept Model List Settings"
+
+msgid "Model List"
+msgstr "Model List"
+
+msgid "🔄 Get Model List"
+msgstr "🔄 Get Model List"
+
+msgid "➕ Add Model"
+msgstr "➕ Add Model"
+
+msgid "🗑️ Delete Selected"
+msgstr "🗑️ Delete Selected"
+
+msgid "📝 Advanced Edit"
+msgstr "📝 Advanced Edit"
+
+msgid "❌ Clear Filter"
+msgstr "❌ Clear Filter"
+
+msgid "☐ Deselect All"
+msgstr "☐ Deselect All"
+
+msgid "☑️ Select All"
+msgstr "☑️ Select All"
+
+msgid "💾 Save"
+msgstr "💾 Save"
+
+msgid "❌ Cancel"
+msgstr "❌ Cancel"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Model ID"
+msgstr "Model ID"
+
+msgid "Model Name"
+msgstr "Model Name"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Owner"
+msgstr "Owner"
+
+msgid "✅ Enable Selected"
+msgstr "✅ Enable Selected"
+
+msgid "❌ Disable Selected"
+msgstr "❌ Disable Selected"
+
+msgid "📝 Copy Model ID"
+msgstr "📝 Copy Model ID"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Please set the Base URL in the main window first"
+msgstr "Please set the Base URL in the main window first"
+
+msgid "Please wait"
+msgstr "Please wait"
+
+msgid "Fetching model list..."
+msgstr "Fetching model list..."
+
+msgid "Failed to fetch model list: {error}"
+msgstr "Failed to fetch model list: {error}"
+
+msgid "Sync complete! Found {count} models."
+msgstr "Sync complete! Found {count} models."
+
+msgid "Add Custom Model"
+msgstr "Add Custom Model"
+
+msgid "Please enter a Model ID"
+msgstr "Please enter a Model ID"
+
+msgid "This Model ID already exists"
+msgstr "This Model ID already exists"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Please select models to delete first"
+msgstr "Please select models to delete first"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Are you sure you want to delete the selected {count} models? This action cannot be undone."
+msgstr "Are you sure you want to delete the selected {count} models? This action cannot be undone."
+
+msgid "Settings saved. Total {total} models, {enabled} enabled."
+msgstr "Settings saved. Total {total} models, {enabled} enabled."
+
+msgid "Advanced Edit Mode - JSON"
+msgstr "Advanced Edit Mode - JSON"
+
+msgid "Edit the model's JSON configuration directly here. Ensure the format is correct."
+msgstr "Edit the model's JSON configuration directly here. Ensure the format is correct."
+
+msgid "Failed to load configuration"
+msgstr "Failed to load configuration"
+
+msgid "✅ Validate Format"
+msgstr "✅ Validate Format"
+
+msgid "💅 Format"
+msgstr "💅 Format"
+
+msgid "💾 Save and Apply"
+msgstr "💾 Save and Apply"
+
+msgid "Validation Failed"
+msgstr "Validation Failed"
+
+msgid "Top-level structure must be a JSON array (list)."
+msgstr "Top-level structure must be a JSON array (list)."
+
+msgid "Item #{num} is not a valid JSON object (dictionary)."
+msgstr "Item #{num} is not a valid JSON object (dictionary)."
+
+msgid "Item #{num} is missing the required 'id' field."
+msgstr "Item #{num} is missing the required 'id' field."
+
+msgid "JSON configuration validation passed!"
+msgstr "JSON configuration validation passed!"
+
+msgid "JSON Error"
+msgstr "JSON Error"
+
+msgid "Invalid JSON format: {error}"
+msgstr "Invalid JSON format: {error}"
+
+msgid "Formatting Failed"
+msgstr "Formatting Failed"
+
+msgid "Could not format JSON: {error}"
+msgstr "Could not format JSON: {error}"
+
+msgid "Advanced edits applied.\nPlease remember to click the 'Save' button in the main settings window to persist changes."
+msgstr "Advanced edits applied.\nPlease remember to click the 'Save' button in the main settings window to persist changes."

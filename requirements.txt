@@ -1,0 +1,7 @@
+ttkbootstrap
+fastapi
+uvicorn[standard]
+httpx[http2]
+pydantic
+pillow
+pystray
